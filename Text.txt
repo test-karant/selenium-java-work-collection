@@ -1,0 +1,2 @@
+This repository is having sample Selenium java tests that I have created and have been using for the different tests.
+- There are some reusable methods and some of the tests
